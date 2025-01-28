@@ -1,5 +1,5 @@
 # HackTheBox AD Machines
-A list of all Active Directory machines from HackTheBox, sorted by their release date, including difficulty levels and direct links to each machine
+A list of all Active Directory machines from HackTheBox, sorted by their release date, including difficulty levels and direct links to each machine, can also use to prep for the cpts (dis what im gonna use it)
 
 | Machine Name   | Difficulty | Machine Link                                    |
 |----------------|------------|-------------------------------------------------|
