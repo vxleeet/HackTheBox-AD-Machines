@@ -1,7 +1,7 @@
 # HackTheBox AD Machines
 A list of all Active Directory machines from HackTheBox, sorted by their release date, including difficulty levels and direct links to each machine
 
-| Machine Name   | Difficulty | Machine Link                                     |
+| Machine Name   | Difficulty | Machine Link                                    |
 |----------------|------------|-------------------------------------------------|
 | Mantis         | Hard       | [Link](https://app.hackthebox.com/machines/98)  |
 | Rabbit         | Insane     | [Link](https://app.hackthebox.com/machines/133) |
@@ -39,8 +39,10 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Office         | Hard       | [Link](https://app.hackthebox.com/machines/588) |
 | Mist           | Insane     | [Link](https://app.hackthebox.com/machines/595) |
 | Freelancer     | Hard       | [Link](https://app.hackthebox.com/machines/604) |
+| Ghost          | Insane     | [Link](https://app.hackthebox.com/machines/616) |
 | Infiltrator    | Insane     | [Link](https://app.hackthebox.com/machines/623) |
 | Cicada         | Easy       | [Link](https://app.hackthebox.com/machines/627) |
+| University     | Insane     | [Link](https://app.hackthebox.com/machines/632) |
 | Certified      | Medium     | [Link](https://app.hackthebox.com/machines/633) |
 | Administrator  | Medium     | [Link](https://app.hackthebox.com/machines/634) |
 | Vintage        | Hard       | [Link](https://app.hackthebox.com/machines/637) |
